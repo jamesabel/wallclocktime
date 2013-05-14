@@ -1,0 +1,20 @@
+#
+# the usual things to not put in the repo
+temp.*
+temp/
+repo_ignore/
+Debug/
+build/
+*.obj
+*.tlog
+*.log
+*.pdb
+*.lastbuildstate
+*.suo
+*.sdf
+*.filters
+*.vcxproj
+#
+# our temp file
+__*__.txt
+#
