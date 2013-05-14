@@ -1,6 +1,6 @@
 
 wallclocktime
 
-Measures wall clock time of an application.
+Measures wall clock time of an application using a high resolution timer.
 
 Currently only for Windows.
