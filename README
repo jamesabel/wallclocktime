@@ -1,0 +1,6 @@
+
+wallclocktime
+
+Measures wall clock time of an application.
+
+Currently only for Windows.
